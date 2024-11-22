@@ -14,4 +14,4 @@
 
 2022.09 ~ Present
 
-There's 'W' in the desert, do you have the insight to recognize it?
+you arent
