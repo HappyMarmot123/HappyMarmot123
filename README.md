@@ -23,8 +23,7 @@
   </a>
 </p>
 
-Framer Motion, GSAP    
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+React Native, Framer Motion, GSAP   
     
 ## 🌱 Stack: Junior level
 
