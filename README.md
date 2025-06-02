@@ -24,17 +24,19 @@
   </a>
 </p>
 
-React Native, Framer Motion, GSAP   
+Next, React, Vue, ReactNative, TailwindCSS, SASS  
+Redux, TypeScript, JQuery, FramerMotion, GSAP  
+MongoDB, Mysql, Supabase, Prisma, Node, Java    
     
 ## 🌱 Stack: Junior level
 
 <p align="left">
   <a href="https://skillicons.dev/icons?i=css">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,aws,docker,figma,firebase,php" />
+    <img src="https://skillicons.dev/icons?i=flutter,php,aws,docker,figma,firebase" />
   </a>
 </p>
 
-
+Flutter, PHP, AWS, Docker, Figma, Firebase  
 
 
 
