@@ -23,10 +23,6 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,prisma,nodejs,java" />
   </a>
 </p>
-
-Next, React, Vue, ReactNative, TailwindCSS, SASS  
-Redux, TypeScript, JQuery, FramerMotion, GSAP  
-MongoDB, Mysql, Supabase, Prisma, Node, Java    
     
 ## 🌱 Stack: Junior level
 
@@ -36,7 +32,8 @@ MongoDB, Mysql, Supabase, Prisma, Node, Java
   </a>
 </p>
 
-Flutter, PHP, AWS, Docker, Figma, Firebase  
+Next, React, Vue, ReactNative, TailwindCSS, SASS, Redux, TypeScript, JQuery, FramerMotion, GSAP    
+MongoDB, Mysql, Supabase, Prisma, Node, Java, Flutter, PHP, AWS, Docker, Figma, Firebase      
 
 
 
