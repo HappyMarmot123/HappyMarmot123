@@ -8,8 +8,9 @@
 
 'I grew and succeeded on my own'
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=HappyMarmot123)](https://solved.ac/HappyMarmot123)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyMarmot123&show_icons=true&include_all_commits=true&title_color=E0E0E0&text_color=A0A0A0&bg_color=90,0F1D3F,331A47,663399)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMarmot123&layout=compact&title_color=E0E0E0&text_color=A0A0A0&bg_color=90,0F1D3F,331A47,663399)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyMarmot123&show_icons=true&include_all_commits=true&title_color=E0E0E0&text_color=A0A0A0&bg_color=90,0F1D3F,331A47,663399)  
 
 ## 🏆 Stack: Use at Production level
 
