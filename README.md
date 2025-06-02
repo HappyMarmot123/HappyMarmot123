@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm the true Full-Stack
+![header](https://capsule-render.vercel.app/api?type=waving&color=DB7093EE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=DB7093EE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=👋+Hey+there,+I'm+Full-Stack+Marmot)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMarmot123&layout=compact&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyMarmot123&show_icons=true&include_all_commits=true&theme=dracula)
