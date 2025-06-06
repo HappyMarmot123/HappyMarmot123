@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B8860B&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=B8860B&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=👋+Hey+there,+I'm+Full-Stack+Marmot)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffce56&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=35ba78&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=👋+Hey+there,+I'm+Full-Stack+Marmot)](https://git.io/typing-svg)
 
 ### 프론트 개발, 백엔드 개발, 웹 퍼블리싱, 데이터베이스 (통계 위주) 
 
@@ -8,8 +8,9 @@
 
 'I grew and succeeded on my own'
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyMarmot123&show_icons=true&include_all_commits=true&title_color=E0E0E0&text_color=A0A0A0&bg_color=90,0F1D3F,331A47,663399)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMarmot123&layout=compact&title_color=E0E0E0&text_color=A0A0A0&bg_color=90,0F1D3F,331A47,663399)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HappyMarmot123&theme=vue-dark&border_radius=10&locale=ko)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMarmot123&layout=compact&theme=vue-dark)
+
 
 ## 🏆 Stack: Use at Production level
 
@@ -35,6 +36,13 @@
 Next, React, Vue, ReactNative, TailwindCSS, SASS, Redux, TypeScript, JQuery, FramerMotion, GSAP    
 MongoDB, Mysql, Supabase, Prisma, Node, Java, Flutter, PHP, AWS, Docker, Figma, Firebase      
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HappyMarmot123/HappyMarmot123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HappyMarmot123/HappyMarmot123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HappyMarmot123/HappyMarmot123/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
