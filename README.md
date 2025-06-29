@@ -6,8 +6,6 @@
 저는 **풀스택 개발자**로서 다양한 기술 스택을 활용한 풍부한 업무 경험을 가지고 있습니다.    
 현재 **프론트엔드 개발**이 주력 분야이지만, **서버**와 **인프라**에도 깊은 관심을 가지고 있습니다.    
 
-'I grew and succeeded on my own'
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=HappyMarmot123&theme=vue-dark&border_radius=10&locale=ko)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMarmot123&layout=compact&theme=vue-dark)
 
