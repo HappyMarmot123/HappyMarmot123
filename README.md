@@ -13,25 +13,26 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,sass,redux,ts,jquery" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,jest,tailwind,sass,redux,ts,jquery" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,prisma,nodejs,java" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,prisma,nodejs,java,spring" />
   </a>
 </p>
+
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> 
+Zustand, FramerMotion, GSAP
+
     
 ## 🌱 Stack: Junior level
 
 <p align="left">
   <a href="https://skillicons.dev/icons?i=css">
-    <img src="https://skillicons.dev/icons?i=flutter,php,aws,docker,figma,firebase" />
+    <img src="https://skillicons.dev/icons?i=flutter,vue,php,aws,docker,figma,firebase" />
   </a>
 </p>
-
-Next, React, Vue, ReactNative, TailwindCSS, SASS, Redux, TypeScript, JQuery, FramerMotion, GSAP  
-MongoDB, Mysql, Supabase, Prisma, Node, Java, Flutter, PHP, AWS, Docker, Figma, Firebase
 
 ###
 
