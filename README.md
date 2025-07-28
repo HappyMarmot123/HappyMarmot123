@@ -34,6 +34,16 @@ Zustand, FramerMotion, GSAP
   </a>
 </p>
 
+## 🎁  PROJECTS
+
+### 🎶  EDMM : 신나는 EDM 음악을 들을 수 있는 플랫폼
+  - 진행 기간: 2025년 05월 ~ 2025년 07월
+  - 참여 인원: 1인 (개인 프로젝트)
+  - 배포 링크: edmm.vercel.app
+  - 깃허브: https://github.com/HappyMarmot123/EDMM
+
+---
+
 ###
 
 <picture>
