@@ -18,7 +18,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,prisma,nodejs,java,spring" />
+    <img src="https://skillicons.dev/icons?i=nestjs,mongodb,mysql,supabase,prisma,nodejs,java,spring" />
   </a>
 </p>
 
