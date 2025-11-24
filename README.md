@@ -13,8 +13,10 @@ Side project that I worked on alone for two months.
 Designed the architecture and design patterns to achieve clean code.  
 [edmm.vercel.app](https://edmm.vercel.app/) | https://github.com/HappyMarmot123/EDMM  
 
-### Skill & Language 
-### To use at production level 💪🏻
+
+## Skill & Language 
+
+### 💪🏻 To use at production level 
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -36,7 +38,7 @@ Designed the architecture and design patterns to achieve clean code.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-#### Junior level 🐤
+### 🐤 Junior level
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
