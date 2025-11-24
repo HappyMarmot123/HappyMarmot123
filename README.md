@@ -1,12 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=35ba78&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=35ba78&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=When+I+become+successful,+I+will+deserve+it.)](https://git.io/typing-svg)
 
-A Full-Stack Mid-level Developer with 3 years of professional experience,   
-Specializing in modern Frontend development And implementation of Single Page Application (SPA) architectures.  
-  
+pleasure to meet you.  
+I'm a Full-Stack Mid-level Developer with 3 years of professional experience.  
+
 Committed to becoming a highly skilled T-shaped developer,   
 Continually expanding my technical capabilities without being restricted by specific language or role boundaries.   
 I am eager to grow alongside talented colleagues in a challenging, large-scale environment.  
+
+🖥️ On the web side,  
+
+Specializing in modern Frontend development And implementation of Single Page Application (SPA) architectures.    
+I build frontends with Next/Vue + TypeScript and mostly use Node.js on the backend. I’m comfortable with Legacy Stacks (JQUery, JSP).  
+
+📱 On the mobile side,  
+
+I used React Native and Flutter, which are native languages as sub projects.  
+
+☁️ On the infra & data side,  
+
+I use both MongoDB and SQL, and I use Docker.   
+Worked with databases in the production, but I'm still inexperienced with server infrastructure.   
+However, I take on the challenge whenever the opportunity arises!    
+
+---
 
 ### EDMM : Electronic Dance Music Marmot 
 Side project that I worked on alone for two months.    
