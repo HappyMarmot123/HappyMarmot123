@@ -1,61 +1,50 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=35ba78&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=35ba78&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=When+I+become+successful,+I+will+deserve+it.)](https://git.io/typing-svg)
 
-```javascript
-if (nobodyBelieves) {
-  workHard();
-  proveThemWrong();
-}
+A Full-Stack Mid-level Developer with 3 years of professional experience,   
+Specializing in modern Frontend development And implementation of Single Page Application (SPA) architectures.  
+  
+Committed to becoming a highly skilled T-shaped developer,   
+Continually expanding my technical capabilities without being restricted by specific language or role boundaries.   
+I am eager to grow alongside talented colleagues in a challenging, large-scale environment.  
 
-function workHard() {
-  if (failure) tryAgain();
-}
+### EDMM : Electronic Dance Music Marmot 
+Side project that I worked on alone for two months.    
+Designed the architecture and design patterns to achieve clean code.  
+[edmm.vercel.app](https://edmm.vercel.app/) | https://github.com/HappyMarmot123/EDMM  
 
-function proveThemWrong() {
-  return "I forgive all because it has you.";
-}
-```
+### Skill & Language 
+### To use at production level 💪🏻
 
-### 프론트 개발, 백엔드 개발, 모바일 개발, 데이터베이스, 웹 퍼블리싱
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-현재 **프론트엔드 개발**이 주력 분야이지만, **서버**와 **인프라**에도 깊은 관심을 가지고 있습니다.
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### Junior level 🐤
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HappyMarmot123&theme=vue-dark&border_radius=10&locale=ko)](https://git.io/streak-stats)
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMarmot123&layout=compact&theme=vue-dark) -->
-
-## 🎁 PROJECTS
-
-### 🎶 EDMM : 신나는 EDM 음악을 들을 수 있는 플랫폼
-
-- 진행 기간: 2025년 05월 ~ 2025년 07월
-- 참여 인원: 1인 (개인 프로젝트)
-- 배포 링크: [edmm.vercel.app](https://edmm.vercel.app/)
-- 깃허브: https://github.com/HappyMarmot123/EDMM
-
-## 🏆 Stack: Use at Production level
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,jest,tailwind,sass,redux,ts,jquery" />
-  </a>
-</p>  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,mongodb,mysql,supabase,prisma,nodejs,java,spring" />
-  </a>
-</p>    
-React Native, Zustand, Motion, GSAP
-
-## 🌱 Stack: Junior level
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,vue,php,aws,docker,figma,firebase" />
-  </a>
-</p>
-
----
 
 ###
 
