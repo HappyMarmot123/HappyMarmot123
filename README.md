@@ -4,13 +4,13 @@
 Pleasure to meet you. I'm a Full-Stack Mid-level Developer with 3 years of professional experience.    
 
 Committed to becoming a highly skilled T-shaped developer,   
-I continually expand my technical capabilities, unrestricted by specific language or role boundaries.   
+continually expand my technical capabilities, unrestricted by specific language or role boundaries.   
 I am eager to grow alongside talented colleagues in a challenging, large-scale environment.  
 
 🖥️ Web Development
 
 I specialize in modern Frontend development and the implementation of Single Page Application (SPA) architectures.   
-I build frontends with Next/Vue + TypeScript and primarily use Node.js on the backend.  
+Build frontends with Next/Vue + TypeScript and primarily use Node.js on the backend.  
 And comfortable with Legacy Stacks (JQuery, JSP) as well.  
 
 📱 Mobile Development  
@@ -21,7 +21,7 @@ I have used cross-platform frameworks like React Native and Flutter in sub-proje
 
 I utilize both MongoDB and SQL databases, and I use Docker for containerization.   
 While I have strong experience working with databases in a production environment,   
-I am still building experience with server infrastructure.  
+Still building experience with server infrastructure.  
 
 ---
 
