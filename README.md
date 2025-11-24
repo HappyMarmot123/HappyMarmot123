@@ -1,31 +1,31 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=35ba78&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=35ba78&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=When+I+become+successful,+I+will+deserve+it.)](https://git.io/typing-svg)
 
-Pleasure to meet you.  
-I'm a Full-Stack Mid-level Developer with 3 years of professional experience.  
+Pleasure to meet you. I'm a Full-Stack Mid-level Developer with 3 years of professional experience.    
 
 Committed to becoming a highly skilled T-shaped developer,   
-Continually expanding my technical capabilities without being restricted by specific language or role boundaries.   
+I continually expand my technical capabilities, unrestricted by specific language or role boundaries.   
 I am eager to grow alongside talented colleagues in a challenging, large-scale environment.  
 
-🖥️ On the web side,  
+🖥️ Web Development
 
-Specializing in modern Frontend development And implementation of Single Page Application (SPA) architectures.    
-I build frontends with Next/Vue + TypeScript and mostly use Node.js on the backend. I’m comfortable with Legacy Stacks (JQUery, JSP).  
+I specialize in modern Frontend development and the implementation of Single Page Application (SPA) architectures.   
+I build frontends with Next/Vue + TypeScript and primarily use Node.js on the backend.  
+And comfortable with Legacy Stacks (JQuery, JSP) as well.  
 
-📱 On the mobile side,  
+📱 Mobile Development  
 
-I used React Native and Flutter, which are native languages as sub projects.  
+I have used cross-platform frameworks like React Native and Flutter in sub-projects.  
 
-☁️ On the infra & data side,  
+☁️ Infra & Data  
 
-I use both MongoDB and SQL, and I use Docker.   
-Worked with databases in the production, but I'm still inexperienced with server infrastructure.   
-However, I take on the challenge whenever the opportunity arises!    
+I utilize both MongoDB and SQL databases, and I use Docker for containerization.   
+While I have strong experience working with databases in a production environment,   
+I am still building experience with server infrastructure.  
 
 ---
 
-### EDMM : Electronic Dance Music Marmot 
+### 🎶 EDMM : Electronic Dance Music Marmot 
 Side project that I worked on alone for two months.    
 Designed the architecture and design patterns to achieve clean code.  
 [edmm.vercel.app](https://edmm.vercel.app/) | https://github.com/HappyMarmot123/EDMM  
@@ -33,7 +33,7 @@ Designed the architecture and design patterns to achieve clean code.
 
 ## Skill & Language 
 
-### 💪🏻 To use at production level 
+### To use at production level 
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -55,7 +55,7 @@ Designed the architecture and design patterns to achieve clean code.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🐤 Junior level
+### Junior level
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
