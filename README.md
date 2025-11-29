@@ -65,6 +65,8 @@ Designed the architecture and design patterns to achieve clean code.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=HappyMarmot123&theme=vue-dark&border_radius=10&locale=ko)](https://git.io/streak-stats)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMarmot123&layout=compact&theme=vue-dark) -->
 
