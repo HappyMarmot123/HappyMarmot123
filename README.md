@@ -24,14 +24,6 @@ I utilize both MongoDB and SQL databases, and I use Docker for containerization.
 While I have strong experience working with databases in a production environment,   
 Still building experience with server infrastructure.  
 
----
-
-### 🎶 EDMM : Electronic Dance Music Marmot 
-Side project that I worked on alone for two months.    
-Designed the architecture and design patterns to achieve clean code.  
-[edmm.vercel.app](https://edmm.vercel.app/) | https://github.com/HappyMarmot123/EDMM  
-
-
 ## Skill & Language 
 
 ### To use at production level 
@@ -57,15 +49,12 @@ Designed the architecture and design patterns to achieve clean code.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Junior level
-
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
----
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HappyMarmot123&theme=vue-dark&border_radius=10&locale=ko)](https://git.io/streak-stats)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMarmot123&layout=compact&theme=vue-dark) -->
